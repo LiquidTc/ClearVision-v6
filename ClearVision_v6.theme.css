@@ -23,14 +23,14 @@
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
-  --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
+  --online-color: #BCEB4F; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --idle-color: #8BEFEF; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+  --dnd-color: #FF0201; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+  --streaming-color: #9560FF; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* GENERAL */
-  --main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
+  --main-font: Earth Momma, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
