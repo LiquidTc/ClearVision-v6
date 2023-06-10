@@ -23,7 +23,7 @@
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #BCEB4F; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --online-color: #87FF5B; /* online status color (hex, rgb or hsl) [default: #43b581] */
   --idle-color: #8BEFEF; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
   --dnd-color: #FF0201; /* dnd status color (hex, rgb or hsl) [default: #982929] */
   --streaming-color: #9560FF; /* streaming status color (hex, rgb or hsl) [default: #593695] */
